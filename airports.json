@@ -1,0 +1,122 @@
+[
+    {
+      "code": "CCM",
+      "city": "Forquilhinha",
+      "state": "Santa Catarina",
+      "country": "Brazil"
+    },
+    {
+      "code": "CFC",
+      "city": "Caçador",
+      "state": "Santa Catarina",
+      "country": "Brazil"
+    },
+    {
+      "code": "CGB",
+      "city": "Cuiaba",
+      "state": "Centro-Oeste",
+      "country": "Brazil"
+    },
+    {
+      "code": "CGH",
+      "city": "Sao Paulo",
+      "state": "Sao Paulo",
+      "country": "Brazil"
+    },
+    {
+      "code": "CGR",
+      "city": "Campo Grande",
+      "state": "Mato Grosso do Sul",
+      "country": "Brazil"
+    },
+    {
+      "code": "CNF",
+      "city": "Confins",
+      "state": "Minas Gerais",
+      "country": "Brazil"
+    },
+    {
+      "code": "CPQ",
+      "city": "Campinas",
+      "state": "Sao Paulo",
+      "country": "Brazil"
+    },
+    {
+      "code": "FLN",
+      "city": "Florianopolis",
+      "state": "Santa Catarina",
+      "country": "Brazil"
+    },
+    {
+      "code": "FOR",
+      "city": "Fortaleza",
+      "state": "Ceara",
+      "country": "Brazil"
+    },
+    {
+      "code": "FRC",
+      "city": "Franca",
+      "state": "Sao Paulo",
+      "country": "Brazil"
+    },
+    {
+      "code": "GIG",
+      "city": "Rio de Janeiro",
+      "state": "Rio de Janeiro",
+      "country": "Brazil"
+    },
+    {
+      "code": "GRU",
+      "city": "Guarulhos",
+      "state": "Sao Paulo",
+      "country": "Brazil"
+    },
+    {
+      "code": "GVR",
+      "city": "Governador Valadares",
+      "state": "Minas Gerais",
+      "country": "Brazil"
+    },
+    {
+      "code": "GYN",
+      "city": "Goiania",
+      "state": "Goias",
+      "country": "Brazil"
+    },
+    {
+      "code": "IGU",
+      "city": "Foz do Iguacu",
+      "state": "Parana",
+      "country": "Brazil"
+    },
+    {
+      "code": "IMP",
+      "city": "Imperatriz",
+      "state": "Maranhao",
+      "country": "Brazil"
+    },
+    {
+      "code": "JOI",
+      "city": "Joinville",
+      "state": "Santa Catarina",
+      "country": "Brazil"
+    },
+    {
+      "code": "JPA",
+      "city": "Santa Rita",
+      "state": "Paraiba",
+      "country": "Brazil"
+    },
+    {
+      "code": "JPR",
+      "city": "Ji-Paraná",
+      "state": "Rondonia",
+      "country": "Brazil"
+    },
+    {
+      "code": "LAJ",
+      "city": "Lages",
+      "state": "Santa Catarina",
+      "country": "Brazil"
+    }
+   ]
