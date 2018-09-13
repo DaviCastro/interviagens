@@ -8,41 +8,36 @@
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <script src="main.js"></script>
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
 </head>
 <body>
-    <nav>
-        <div class="nav-wrapper">
-            <a href="#" class="brand-logo">inter-viagem</a>
-        </div>
+    <nav class="navbar navbar-light bg-light">
+            <span class="navbar-brand mb-0 h1">Inter Viagem</span>
     </nav>
 
-    <div class="container" id="origemDestino">
-        <div class="row">
-            <div class="input-field col s12 m6">
-                    <select id="input-origem">
-                        <option value="" disabled selected>Origem</option>
-                    </select>
-                    <label>Cidade de origem</label>
+    <div class="container">
+        <form class="buscaCidade" autocomplete="off" action="submitForm()">
+            <div class="autocomplete">
+                <input id="inputOrigem" type="text" class="form-control" placeholder="Cidade de Origem" onblur="registrarCidade(this)">
+                <br/>
+                <input id="inputDestino" type="text" class="form-control" placeholder="Cidade de Destino" onblur="registrarCidade(this)">
             </div>
-        </div>
-        <div class="row">
-            <div class="input-field col s12 m6">
-                    <select id="input-destino">
-                        <option value="" disabled selected>Destino</option>
-                        <option value="bh">Belo Horizonte</option>
-                        <option value="sp">São Paulo</option>
-                        <option value="rj">Rio de Janeiro</option>
-                    </select>
-                    <label>Cidade de destino</label>
-            </div>
-        </div>
+        </form>
     </div>
-    
+
+    <div class="container">
+        <table class="table" id="passagensTable">
+        </table>
+    </div>
+
+    <script src="main.js"></script>
+    <script src="autocomplete.js"></script>
     <script src="https://www.gstatic.com/firebasejs/5.4.0/firebase.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
 </body>
 </html>

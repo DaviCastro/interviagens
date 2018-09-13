@@ -1,0 +1,422 @@
+[
+    {
+        "origem": "CGR",
+        "destino": "CFC",
+        "partida": "2018-10-06T08:55:45.147Z",
+        "chegada": "2018-12-22T02:18:55.814Z",
+        "price": "230.16"
+    },
+    {
+        "origem": "CGH",
+        "destino": "CCM",
+        "partida": "2018-10-29T03:05:17.572Z",
+        "chegada": "2018-11-12T21:31:46.074Z",
+        "price": "110.86"
+    },
+    {
+        "origem": "CNF",
+        "destino": "GRU",
+        "partida": "2018-09-14T17:39:59.148Z",
+        "chegada": "2019-03-07T12:03:30.566Z",
+        "price": "338.81"
+    },
+    {
+        "origem": "CGR",
+        "destino": "CGB",
+        "partida": "2018-10-01T03:18:11.860Z",
+        "chegada": "2019-01-12T02:54:04.097Z",
+        "price": "1773.10"
+    },
+    {
+        "origem": "LAJ",
+        "destino": "GVR",
+        "partida": "2018-10-20T00:40:56.273Z",
+        "chegada": "2018-12-19T11:36:35.325Z",
+        "price": "1662.24"
+    },
+    {
+        "origem": "GRU",
+        "destino": "GIG",
+        "partida": "2018-10-12T04:43:46.731Z",
+        "chegada": "2019-02-23T04:03:01.675Z",
+        "price": "294.36"
+    },
+    {
+        "origem": "FLN",
+        "destino": "CFC",
+        "partida": "2018-10-02T00:48:44.058Z",
+        "chegada": "2019-02-03T20:50:54.494Z",
+        "price": "1617.73"
+    },
+    {
+        "origem": "CNF",
+        "destino": "IGU",
+        "partida": "2018-10-09T23:41:08.354Z",
+        "chegada": "2019-02-06T10:26:43.542Z",
+        "price": "284.59"
+    },
+    {
+        "origem": "IGU",
+        "destino": "LAJ",
+        "partida": "2018-10-20T18:42:33.687Z",
+        "chegada": "2019-01-11T19:28:25.247Z",
+        "price": "1521.29"
+    },
+    {
+        "origem": "IGU",
+        "destino": "FRC",
+        "partida": "2018-10-14T21:46:38.448Z",
+        "chegada": "2019-01-13T01:32:24.441Z",
+        "price": "1685.43"
+    },
+    {
+        "origem": "GYN",
+        "destino": "FOR",
+        "partida": "2018-09-14T15:19:20.165Z",
+        "chegada": "2019-02-07T14:51:32.618Z",
+        "price": "1648.06"
+    },
+    {
+        "origem": "CGR",
+        "destino": "FOR",
+        "partida": "2018-10-19T18:53:56.400Z",
+        "chegada": "2018-09-20T00:54:32.158Z",
+        "price": "1079.81"
+    },
+    {
+        "origem": "IMP",
+        "destino": "CGH",
+        "partida": "2018-09-19T05:20:43.195Z",
+        "chegada": "2018-09-30T00:33:28.593Z",
+        "price": "920.95"
+    },
+    {
+        "origem": "CCM",
+        "destino": "JPA",
+        "partida": "2018-09-20T11:34:13.676Z",
+        "chegada": "2019-01-28T21:36:58.174Z",
+        "price": "496.07"
+    },
+    {
+        "origem": "IMP",
+        "destino": "CPQ",
+        "partida": "2018-10-24T21:13:38.856Z",
+        "chegada": "2018-12-03T13:03:02.881Z",
+        "price": "1786.63"
+    },
+    {
+        "origem": "CGB",
+        "destino": "JPA",
+        "partida": "2018-09-30T08:23:46.589Z",
+        "chegada": "2019-01-29T09:34:02.710Z",
+        "price": "1617.29"
+    },
+    {
+        "origem": "CGR",
+        "destino": "CGB",
+        "partida": "2018-09-19T03:35:45.067Z",
+        "chegada": "2018-10-21T03:16:05.391Z",
+        "price": "248.32"
+    },
+    {
+        "origem": "IMP",
+        "destino": "FOR",
+        "partida": "2018-10-14T02:50:48.958Z",
+        "chegada": "2019-01-22T17:39:29.757Z",
+        "price": "1621.19"
+    },
+    {
+        "origem": "IGU",
+        "destino": "CGR",
+        "partida": "2018-10-26T17:05:15.071Z",
+        "chegada": "2019-02-04T23:09:54.321Z",
+        "price": "687.75"
+    },
+    {
+        "origem": "CGR",
+        "destino": "GVR",
+        "partida": "2018-09-19T21:29:44.367Z",
+        "chegada": "2018-10-12T13:53:11.437Z",
+        "price": "1520.56"
+    },
+    {
+        "origem": "FRC",
+        "destino": "FOR",
+        "partida": "2018-09-30T04:36:22.113Z",
+        "chegada": "2018-11-12T00:44:39.918Z",
+        "price": "1723.74"
+    },
+    {
+        "origem": "JPA",
+        "destino": "JOI",
+        "partida": "2018-10-15T06:05:36.554Z",
+        "chegada": "2018-10-05T15:41:17.143Z",
+        "price": "1126.70"
+    },
+    {
+        "origem": "IMP",
+        "destino": "IGU",
+        "partida": "2018-09-30T22:38:04.306Z",
+        "chegada": "2018-10-16T19:28:06.256Z",
+        "price": "792.00"
+    },
+    {
+        "origem": "CNF",
+        "destino": "JOI",
+        "partida": "2018-10-23T05:57:37.766Z",
+        "chegada": "2018-11-02T11:52:42.695Z",
+        "price": "1428.72"
+    },
+    {
+        "origem": "CGB",
+        "destino": "JOI",
+        "partida": "2018-10-27T12:30:02.275Z",
+        "chegada": "2018-09-25T13:49:27.457Z",
+        "price": "828.61"
+    },
+    {
+        "origem": "CPQ",
+        "destino": "JPA",
+        "partida": "2018-10-19T20:35:58.745Z",
+        "chegada": "2019-01-11T23:40:44.176Z",
+        "price": "159.48"
+    },
+    {
+        "origem": "JPA",
+        "destino": "FRC",
+        "partida": "2018-09-30T17:53:36.301Z",
+        "chegada": "2018-11-07T04:32:10.533Z",
+        "price": "362.69"
+    },
+    {
+        "origem": "CNF",
+        "destino": "FLN",
+        "partida": "2018-10-11T01:51:27.953Z",
+        "chegada": "2018-09-30T22:16:18.970Z",
+        "price": "1509.86"
+    },
+    {
+        "origem": "FRC",
+        "destino": "JPA",
+        "partida": "2018-10-04T17:36:43.264Z",
+        "chegada": "2018-10-21T13:55:36.379Z",
+        "price": "1644.88"
+    },
+    {
+        "origem": "CGH",
+        "destino": "CCM",
+        "partida": "2018-10-27T03:52:56.543Z",
+        "chegada": "2018-12-16T06:51:51.859Z",
+        "price": "114.47"
+    },
+    {
+        "origem": "IMP",
+        "destino": "GVR",
+        "partida": "2018-11-02T07:02:51.675Z",
+        "chegada": "2018-11-11T22:07:17.021Z",
+        "price": "1778.15"
+    },
+    {
+        "origem": "FOR",
+        "destino": "JOI",
+        "partida": "2018-09-22T06:11:09.816Z",
+        "chegada": "2018-10-12T09:44:18.770Z",
+        "price": "898.42"
+    },
+    {
+        "origem": "FOR",
+        "destino": "CPQ",
+        "partida": "2018-09-22T11:01:44.376Z",
+        "chegada": "2018-11-02T02:32:07.402Z",
+        "price": "1959.04"
+    },
+    {
+        "origem": "LAJ",
+        "destino": "IGU",
+        "partida": "2018-09-26T21:54:20.191Z",
+        "chegada": "2018-09-30T21:47:28.792Z",
+        "price": "1048.44"
+    },
+    {
+        "origem": "CGH",
+        "destino": "CNF",
+        "partida": "2018-10-12T01:15:16.345Z",
+        "chegada": "2019-02-20T12:03:15.969Z",
+        "price": "946.16"
+    },
+    {
+        "origem": "GYN",
+        "destino": "CGR",
+        "partida": "2018-10-24T19:28:51.081Z",
+        "chegada": "2018-12-09T04:54:42.756Z",
+        "price": "1921.07"
+    },
+    {
+        "origem": "CNF",
+        "destino": "IGU",
+        "partida": "2018-09-30T18:35:11.495Z",
+        "chegada": "2018-10-22T12:04:33.297Z",
+        "price": "733.84"
+    },
+    {
+        "origem": "LAJ",
+        "destino": "CPQ",
+        "partida": "2018-09-13T12:29:14.945Z",
+        "chegada": "2019-03-02T12:51:20.360Z",
+        "price": "1888.42"
+    },
+    {
+        "origem": "CCM",
+        "destino": "FOR",
+        "partida": "2018-09-22T01:07:58.830Z",
+        "chegada": "2018-11-12T17:57:29.224Z",
+        "price": "1974.60"
+    },
+    {
+        "origem": "GIG",
+        "destino": "JPR",
+        "partida": "2018-10-11T23:05:29.296Z",
+        "chegada": "2018-10-11T13:34:43.589Z",
+        "price": "1943.88"
+    },
+    {
+        "origem": "FLN",
+        "destino": "GYN",
+        "partida": "2018-10-05T07:51:23.120Z",
+        "chegada": "2018-12-21T23:13:57.370Z",
+        "price": "1762.17"
+    },
+    {
+        "origem": "FLN",
+        "destino": "CGR",
+        "partida": "2018-09-28T16:23:57.420Z",
+        "chegada": "2018-10-28T01:54:27.489Z",
+        "price": "1979.75"
+    },
+    {
+        "origem": "FOR",
+        "destino": "CFC",
+        "partida": "2018-10-30T03:45:05.422Z",
+        "chegada": "2018-11-02T00:53:37.378Z",
+        "price": "192.33"
+    },
+    {
+        "origem": "GIG",
+        "destino": "CCM",
+        "partida": "2018-09-16T08:11:28.734Z",
+        "chegada": "2018-12-25T06:31:07.275Z",
+        "price": "1067.72"
+    },
+    {
+        "origem": "IGU",
+        "destino": "FOR",
+        "partida": "2018-10-13T15:06:07.800Z",
+        "chegada": "2019-03-08T08:15:49.869Z",
+        "price": "1518.42"
+    },
+    {
+        "origem": "JPA",
+        "destino": "LAJ",
+        "partida": "2018-09-22T17:56:58.398Z",
+        "chegada": "2018-12-08T03:17:03.415Z",
+        "price": "1110.10"
+    },
+    {
+        "origem": "CGB",
+        "destino": "IGU",
+        "partida": "2018-10-14T19:18:37.292Z",
+        "chegada": "2018-09-21T01:07:07.977Z",
+        "price": "761.20"
+    },
+    {
+        "origem": "FLN",
+        "destino": "JPR",
+        "partida": "2018-10-09T03:24:08.680Z",
+        "chegada": "2018-12-16T18:04:53.162Z",
+        "price": "189.37"
+    },
+    {
+        "origem": "CFC",
+        "destino": "IGU",
+        "partida": "2018-10-22T15:41:17.346Z",
+        "chegada": "2018-09-26T00:00:51.126Z",
+        "price": "1180.25"
+    },
+    {
+        "origem": "FLN",
+        "destino": "IMP",
+        "partida": "2018-09-17T17:48:38.263Z",
+        "chegada": "2019-01-02T13:27:24.581Z",
+        "price": "958.09"
+    },
+    {
+        "origem": "JPA",
+        "destino": "IGU",
+        "partida": "2018-10-25T20:47:30.388Z",
+        "chegada": "2019-01-19T18:02:41.900Z",
+        "price": "1381.91"
+    },
+    {
+        "origem": "CNF",
+        "destino": "IMP",
+        "partida": "2018-09-27T20:29:12.570Z",
+        "chegada": "2018-10-22T15:52:26.862Z",
+        "price": "1128.68"
+    },
+    {
+        "origem": "CGH",
+        "destino": "JPA",
+        "partida": "2018-09-27T16:42:44.477Z",
+        "chegada": "2018-12-16T14:52:14.489Z",
+        "price": "1997.48"
+    },
+    {
+        "origem": "CPQ",
+        "destino": "FRC",
+        "partida": "2018-10-01T19:16:48.243Z",
+        "chegada": "2018-12-13T00:15:26.864Z",
+        "price": "1157.28"
+    },
+    {
+        "origem": "GRU",
+        "destino": "IGU",
+        "partida": "2018-09-19T15:43:38.565Z",
+        "chegada": "2019-03-04T19:15:29.892Z",
+        "price": "689.63"
+    },
+    {
+        "origem": "FRC",
+        "destino": "FLN",
+        "partida": "2018-09-15T01:30:52.325Z",
+        "chegada": "2018-11-14T05:43:21.024Z",
+        "price": "1161.50"
+    },
+    {
+        "origem": "JOI",
+        "destino": "CPQ",
+        "partida": "2018-09-27T08:07:23.974Z",
+        "chegada": "2018-10-31T06:18:19.117Z",
+        "price": "659.87"
+    },
+    {
+        "origem": "FRC",
+        "destino": "CPQ",
+        "partida": "2018-09-28T14:26:28.878Z",
+        "chegada": "2019-01-19T21:40:34.808Z",
+        "price": "1164.35"
+    },
+    {
+        "origem": "CGH",
+        "destino": "IGU",
+        "partida": "2018-09-26T01:40:33.099Z",
+        "chegada": "2019-01-17T17:18:27.853Z",
+        "price": "1206.68"
+    },
+    {
+        "origem": "CNF",
+        "destino": "GYN",
+        "partida": "2018-10-16T06:22:01.520Z",
+        "chegada": "2018-10-07T14:34:40.040Z",
+        "price": "1655.14"
+    }
+]
